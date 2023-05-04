@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <sub>
-        <img src="src/view/images/logo-64.png" height=40 width=40>
+        <img src="src/static/images/logo-64.png" height=40 width=40>
     </sub>
     sAFT
 </h1>
